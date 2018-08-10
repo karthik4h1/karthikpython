@@ -7,6 +7,6 @@ while temp > 0:
    sum += digit ** p
    temp //= 10
 if num == sum:
-   print(num,"yes")
+   print("yes")
 else:
-   print(num,"no")
+   print("no")
