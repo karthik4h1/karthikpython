@@ -1,5 +1,5 @@
-lower = int(input("Enter lower range: "))
-upper = int(input("Enter upper range: "))
+lower = int(input())
+upper = int(input())
 for num in range(lower, upper):
    order = len(str(num))
    sum = 0
