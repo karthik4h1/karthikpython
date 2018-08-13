@@ -1,5 +1,5 @@
-a1=input("enter the 1st string:")
-a2=input("enter the 2nd string:")
+a1=input()
+a2=input()
 MAX_CHARS = 256
 def iso(string1, string2):
 	m = len(string1)
