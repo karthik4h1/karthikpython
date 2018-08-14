@@ -1,6 +1,6 @@
 k=str(input())
 
-if(k=='SUNDAY' or b=='Sunday' or b=='sunday'or b=='SATURDAY' or b=='Saturday'or b=='saturday'):
+if(k=='SUNDAY' or k=='Sunday' or k=='sunday'or k=='SATURDAY' or k=='Saturday'or k=='saturday'):
 
       print("Yes")
 
