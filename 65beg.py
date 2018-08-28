@@ -1,2 +1,2 @@
-K=input("Enter the string:")
+K=input("")
 print(K)
