@@ -1,0 +1,6 @@
+J=input()
+K=J[::-1]
+if(J==K):
+  print("yes")
+else:
+    print("no")
