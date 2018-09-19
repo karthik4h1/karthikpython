@@ -1,4 +1,4 @@
 n=int(input())
-for i in xrange(n):
+for i in range(n):
     print("Hello")
  
