@@ -1,0 +1,11 @@
+N,M=map(int,input().split())
+if(N>M):
+  G=N
+else:
+  G=M
+while(True):
+  if((G%N==0)and(G%M==0)):
+    lcm=G
+    break
+  G+=1
+print(G)
